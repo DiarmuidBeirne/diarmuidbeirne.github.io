@@ -1,0 +1,48 @@
+[
+	{
+		"UserID" : 1,
+		"Name" : "Mr Diarmuid Beirne",
+		"RoleID" : "2",
+		"LocationID" : "1",
+		"UserNumber" : 10134041,
+		"Status" : 81,
+		"ManagerID" : 4290
+	}, 
+	{
+		"UserID" : 2,
+		"Name" : "Cormac Buckley",
+		"RoleID" : "2",
+		"LocationID" : "1",
+		"UserNumber" : 10134042,
+		"Status" : 85,
+		"ManagerID" : 4292
+	},
+	{
+		"UserID" : 3,
+		"Name" : "Mark Fitzgerald",
+		"RoleID" : "2",
+		"LocationID" : "4",
+		"UserNumber" : 10134052,
+		"Status" : 83,
+		"ManagerID" : 4290
+	}, 
+	{
+		"UserID" : 4,
+		"Name" : "Conor Flynn",
+		"RoleID" : "2",
+		"LocationID" : "1",
+		"UserNumber" : 10134034,
+		"Status" : 81,
+		"ManagerID" : 4290
+	},
+	{
+		"UserID" : 5,
+		"Name" : "Aishat Ayanda",
+		"RoleID" : "2",
+		"LocationID" : "1",
+		"UserNumber" : 10134075,
+		"Status" : 81,
+		"ManagerID" : 4290
+	}
+
+]
