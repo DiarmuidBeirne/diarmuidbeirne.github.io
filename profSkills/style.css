@@ -1,0 +1,19 @@
+body { padding-top: 70px; }
+
+h1 {text-align: center; color: white;}
+
+
+
+.matchTitle {color: #fe4a49; font-size: 1.75rem; text-align: left; font-family: 'verdana';}
+
+.match {padding-top: : 10px; padding-bottom: 10px; background-color:  #e6e6ea; border-radius: 5px}
+
+.matchOverview {align-items: center; text-align: center;}
+
+.hdivider {margin-top: .25rem; margin-bottom: .5rem}
+
+.appDiv {background-color: #fed766}
+
+.timeBadge {align-items: : right;}
+
+
